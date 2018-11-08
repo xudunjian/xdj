@@ -5,10 +5,10 @@ addddddddc
 cccccccccccccc
 ddddddddd
 
-<<<<<<< HEAD
 zhuganzhuganzhugan
-=======
-fenzhi1fenzhi1fenzhi1
+enzhi1fenzhi1fenzhi1
+zhubajie
+sunwukong
 
->>>>>>> fenzhi1
-
+dadada
+gagaga
